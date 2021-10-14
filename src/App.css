@@ -4,7 +4,7 @@
 }
 
 :root {
-    /* these variables change with dark mode */
+    
   --body-bgr-col: var(--Very-Light-Gray);
   --task-div-bgr-col: white;
   --bgr-strip-img: url("./images/bg-desktop-light.jpg") no-repeat top center;
@@ -20,7 +20,7 @@
   --atribution-div-col: var(--Very-Dark-Grayish-Blue);
   --atribution-link-col: var(--primary-color);
     
-    /* these variables change with  */
+   
   --primary-color: hsl(220, 98%, 61%);
   --primary-check-bgr: linear-gradient(to right,hsl(192, 100%, 67%), hsl(280, 87%, 65%));
   --form-font-size: 90%;
@@ -272,9 +272,6 @@ input[type=checkbox] {
   background: inherit;
   background: linear-gradient(var(--task-div-bgr-col),var(--task-div-bgr-col)) padding-box, 
   var(--checkmark-border-col) border-box;
-  /* background-image: url("./images/icon-cross.svg"); */
-  /* background-repeat: no-repeat; */
-  /* opacity: 0.4; */
   transition: border 500ms; 
 }
 
@@ -290,7 +287,6 @@ input[type=checkbox] {
   border-radius: inherit;
   height: 20px;
   width: 20px;
-  /* background-image: url("./images/icon-cross.svg"); */
 }
 
 .decor-checkmark {
@@ -300,7 +296,6 @@ input[type=checkbox] {
   width: 20px;
   border: 1.5px solid lightgray;
   border-radius: 50%;
-  /* background-image: url("./images/icon-cross.svg"); */
   background-repeat: no-repeat;
   transition: opacity 500ms;
 }
