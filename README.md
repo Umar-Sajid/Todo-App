@@ -39,13 +39,6 @@ Users should be able to:
 ![](./screenshots/screenshot-mobile-dark.jpg)
 ![](./screenshots/screenshot-mobile-light.jpg)
 
-### Links
-
-- Solution URL: (https://github.com/JiriPohanka/react-todolist)
-- Live Site URL: (https://614c49adcd0a68a8d63be012--ecstatic-wing-ce01dc.netlify.app/)
-
-## My process
-
 ### Built with
 
 - Semantic HTML5 markup
@@ -54,25 +47,9 @@ Users should be able to:
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
 
-### What I learned
-
-This app being my first ReactJS app ever has tought me a lot about. I had to understand the lifecycle of React components better in order to tackle the project as well as ReactJS hooks.
-
-In terms of CSS, this was a challenge as well because in order to copy the provided design by Frontend Mentor, I was forced to deal with pseudo elements (for checkmark and for expanding clicklable areas around buttons etc.), CSS variables (for dark mode) and media queries.
-
-To see how you can add code snippets, see below:
-
-### Continued development
-
-In terms of this project, in the future I would consider adding user accounts and storing tasks in database using Firebase. As of now, the data is only stored in localStorage.
-
-Also, I built this app without any css prepocessors. In further projects, I am going to use SASS in order to expand my knowledge of CSS. Moreover, I think I want to read more about how to structure CSS to avoid spaghetti code.
-
-This was my first app using ReactJS. My plan is to continue creating in ReactJS, start using Redux as well and maybe some ReactJS framework such as Gatsby or NextJS.
-
 ### Useful resources
 
-- [FreeCodeCamp - drag and drop guide](https://www.freecodecamp.org/news/how-to-add-drag-and-drop-in-react-with-react-beautiful-dnd/) - This article helped me easily implement drag and drop functionality. I really liked this pattern and will use it going forward.
+- [FreeCodeCamp - drag and drop guide](https://www.freecodecamp.org/news/how-to-add-drag-and-drop-in-react-with-react-beautiful-dnd/) 
 
 ## Author
 
